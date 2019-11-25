@@ -4,7 +4,7 @@
 
 ## Initial training (SafeLife v0.1)
 
-The initial agents were trained with no notion of side effects, so they end up being quite unsafe. Nonetheless, they do manage to occasionally complete a level without messing everything. These are examples of (accidentally) safe and unsafe behaviors.
+The initial agents were trained with no notion of side effects, so they end up being quite unsafe. Nonetheless, they do manage to occasionally complete a level without messing everything up. These are examples of (accidentally) safe and unsafe behaviors.
 
 ### Creating patterns
 
